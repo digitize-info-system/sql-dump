@@ -1,4 +1,4 @@
-# sql-dump
+# SQL-dump
 SQL Dump : Take backup of all your MySQL DB in a single shot.
 
 ## Clone this repo
